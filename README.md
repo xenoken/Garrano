@@ -1,0 +1,2 @@
+# Garrano
+Systemized Functional Javascript
